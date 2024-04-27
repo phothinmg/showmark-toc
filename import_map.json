@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "showdown": "npm:showdown@^2.1.0"
+  }
+}
